@@ -7,14 +7,6 @@ Current versions:
 
 * Codeigniter 3.1.13 (CodeIgniter Foundation)
 * Bootstrap 3.3.7
-
-## Donate
-<p>If this project help you reduce time to develop, you can give me a cup of coffee to continue its development. Thank you! :)</p>
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W5BR6K29BQX7E)
-
-<p><b>BTC Address:</b> 3FmdTVWCApEcHT6wmrSCFkUSqaowsaqS9Y</p>
-
 ## See also
 <p><a href="https://codecanyon.net/item/wp-invoices-pdf-electronic-invoicing-system/36891583" title="Electronic invoicing and warehouse management plugin which allows you to issue, send and download invoices as pdf file">WordPress PDF Invoices Plugin</a> - Create, Send, Manage and Download as PDF or CSV Invoices in Multiple Templates</p>
 
@@ -37,7 +29,7 @@ Current versions:
 15. Easy installation
 16. Readable source
 17. Complete editing of public texts
-18. Receive ![PayPal Ecommerce Integration](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/paypalLogo.png "Paypal Integration") payments, also have option for paypal sandbox testing
+18. Receive ![PayPal Ecommerce Integration]("Paypal Integration") payments, also have option for paypal sandbox testing
 19. Fast-loading templates for good seo
 20. Site color change with easy to use gradient generator
 21. Add multilanguage cookie notificator from silktide.com for EU Cookie Law 
@@ -57,10 +49,10 @@ Current versions:
 2. Set <b>database</b>, <b>username</b> and <b>password</b> in application/config/database.php
 
 ## Available Languages
-- ![CodeIgniter Ecommerce English](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/en.jpg "English Translation CodeIgniter") English
-- ![CodeIgniter Ecommerce Greece](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/gr.png "Greece Translation CodeIgniter") Greece
-- ![CodeIgniter Ecommerce Bulgarian](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/bg.jpg "Bulgarian Translation CodeIgniter") Bulgarian
-- ![CodeIgniter Ecommerce Indonesian](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/attachments/lang_flags/id.jpg "Indonesian Translation CodeIgniter") Indonesian
+- ![CodeIgniter Ecommerce English]("English Translation CodeIgniter") English
+- ![CodeIgniter Ecommerce Greece]("Greece Translation CodeIgniter") Greece
+- ![CodeIgniter Ecommerce Bulgarian]("Bulgarian Translation CodeIgniter") Bulgarian
+- ![CodeIgniter Ecommerce Indonesian]("Indonesian Translation CodeIgniter") Indonesian
 
 ## Login to administration with
 - Administration url - /admin (eg. https://yourwebsite.com/admin)
@@ -85,18 +77,6 @@ Current versions:
 
 ## Screenshot of admin panel
 ![CodeIgniter Administration Bootstrap](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/admin_panel4.png "Powerful Administration CodeIgniter")
-
-### How To Write Templates
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/How-to-write-templates
-
-### Shopping cart peculiarities
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Shopping-cart-peculiarities
-
-### Multi Vendor Support
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Multi-Vendor-Support
-
-### API Documentation
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/API
 
 ### Server Requirements
 - PHP version 5.6 or newer is recommended.
